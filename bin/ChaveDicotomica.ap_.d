@@ -1,13 +1,13 @@
-/home/jonatas/dicotomica/app/bin/ChaveDicotomica.ap_ \
- : /home/jonatas/dicotomica/app/res/drawable/get_ruboto_core.png \
-/home/jonatas/dicotomica/app/res/drawable-mdpi/icon.png \
-/home/jonatas/dicotomica/app/res/drawable-ldpi/icon.png \
-/home/jonatas/dicotomica/app/res/values/strings.xml \
-/home/jonatas/dicotomica/app/res/layout/about.xml \
-/home/jonatas/dicotomica/app/res/layout/get_ruboto_core.xml \
-/home/jonatas/dicotomica/app/res/drawable-hdpi/icon.png \
-/home/jonatas/dicotomica/app/bin/res/drawable/get_ruboto_core.png \
-/home/jonatas/dicotomica/app/bin/res/drawable-mdpi/icon.png \
-/home/jonatas/dicotomica/app/bin/res/drawable-ldpi/icon.png \
-/home/jonatas/dicotomica/app/bin/res/drawable-hdpi/icon.png \
-/home/jonatas/dicotomica/app/AndroidManifest.xml \
+/home/jonatas/chave-dicotomica-android/bin/ChaveDicotomica.ap_ \
+ : /home/jonatas/chave-dicotomica-android/res/drawable/get_ruboto_core.png \
+/home/jonatas/chave-dicotomica-android/res/drawable-mdpi/icon.png \
+/home/jonatas/chave-dicotomica-android/res/drawable-ldpi/icon.png \
+/home/jonatas/chave-dicotomica-android/res/values/strings.xml \
+/home/jonatas/chave-dicotomica-android/res/layout/about.xml \
+/home/jonatas/chave-dicotomica-android/res/layout/get_ruboto_core.xml \
+/home/jonatas/chave-dicotomica-android/res/drawable-hdpi/icon.png \
+/home/jonatas/chave-dicotomica-android/bin/res/drawable/get_ruboto_core.png \
+/home/jonatas/chave-dicotomica-android/bin/res/drawable-mdpi/icon.png \
+/home/jonatas/chave-dicotomica-android/bin/res/drawable-ldpi/icon.png \
+/home/jonatas/chave-dicotomica-android/bin/res/drawable-hdpi/icon.png \
+/home/jonatas/chave-dicotomica-android/AndroidManifest.xml \

@@ -1,1 +1,1 @@
-/home/jonatas/dicotomica/app/bin/classes.dex : \
+/home/jonatas/chave-dicotomica-android/bin/classes.dex : \
