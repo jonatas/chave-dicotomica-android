@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name='app_name'>Chave Dicotomica</string>
+    <string name="developed">Desenvolvido por:</string>
+    <string name="project">http://chaves.ideia.me</string>
+    <string name="description">Chave Dicotômica do Flora arbórea e arborescente do Rio Grande do Sul</string>
+</resources>
